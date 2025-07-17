@@ -14,7 +14,7 @@ import json
 from PIL import Image
 import io
 
-st.title("🐛🐛🐛🐛Effi 해충 이미지 분류기")
+st.title("🐛🐛🐛🐛Effi 이미지 분류기")
 st.write(" 이 이미지 분류기는 gypsy_moth_caterpillar,love_bug,sitck_insect,Spotted_Lanternfly 입니다")
 
 st.image(
